@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">tugas pertemuan 7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="programming_languages">
+        <item>python</item>
+        <item>java</item>
+        <item>php</item>
+        <item>react</item>
+        <item>c_plus_plus</item>
+        <item>swift</item>
+        <item>kotlin</item>
+        <item>javascript</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+        <item>Description of programming language</item>
+    </string-array>
+</resources>
